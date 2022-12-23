@@ -1,6 +1,6 @@
 
 # InfinityPI
-<div class="quarter noBorderOnLeft">
+<div style="text-align:justify;">
 <p>The InfinityPI is designed to be used as a hardware toolkit during vehicle pen-testing scenarios, where we want it to be portable and stealthy.
 
 There are different hardware modules, that can be added to the InfinityPI for various tasks. The InfinityPI made up of a collection of pen-testing tools, enables it to perform the functions such as door unlocking,
