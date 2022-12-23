@@ -1,5 +1,6 @@
-<img src="./data/img/3.png" width=300px>
-
+<p align="center">
+<img src="./data/img/3.png" width=200px>
+</p>
 # InfinityPI
 This repository hosts the source code for InfinityPI.InfinityPI is build to be used as a Hardware toolkit
 during vehicle pentesting scenarios, where we want to being stealth, and achieve as much goals as possible
@@ -13,7 +14,7 @@ Our primary goals are:
 
 # Demo
 <iframe src="./data/video/1.mp4" height=600 width=800></iframe>
-<br />hacking tesla
+<br />hacking tesla<br />
 <iframe src="./data/video/2.mp4" height=600 width=800></iframe>
 <br />
 
