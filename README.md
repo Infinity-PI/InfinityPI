@@ -19,9 +19,8 @@ The reporting feature on InfinityPI gives the pentester the option of sending re
 <img src="./data/img/1.jpg" width=410px><img src="./data/img/2.jpg" width=410px>
 
 # Demo
-<iframe src="./data/video/1.mp4" height=600 width=800></iframe>
-<br />hacking tesla<br />
-<iframe src="./data/video/2.mp4" height=600 width=800></iframe>
-<br />
+
+https://user-images.githubusercontent.com/121275881/209302504-4f5e8b59-70f3-4c19-bc5b-d20a6104f8d2.mp4
+
 
 # NEWS
