@@ -1,12 +1,12 @@
 
 # InfinityPI
-<p>The InfinityPI is designed to be used as a hardware toolkit during vehicle pen-testing scenarios, where we want it to be portable and stealthy.
+<p align="right">The InfinityPI is designed to be used as a hardware toolkit during vehicle pen-testing scenarios, where we want it to be portable and stealthy.
 
 There are different hardware modules, that can be added to the InfinityPI for various tasks. The InfinityPI made up of a collection of pen-testing tools, enables it to perform the functions such as door unlocking,
  BLE relay attack, and CAN packet manipulating. 
 </p>
 <br/>
-<p>With InfinityPI a pentester can sniff and manipulate the CAN packets. It can be used as an entry point to a target vehicle. Once connected to the OBD2 Port, 
+<p align="right">With InfinityPI a pentester can sniff and manipulate the CAN packets. It can be used as an entry point to a target vehicle. Once connected to the OBD2 Port, 
 the scripts will run and perform in-depth CAN network analysis.
 
 The attack exploits performed by InfinityPI are automated, once activated it will automatically exploit vulnerable services that can be exploited. 
