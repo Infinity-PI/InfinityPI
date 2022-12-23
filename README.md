@@ -6,7 +6,6 @@ There are different hardware modules, that can be added to the InfinityPI for va
  BLE relay attack, and CAN packet manipulating. 
 </p>
 <br/>
-<br/>
 <p>With InfinityPI a pentester can sniff and manipulate the CAN packets. It can be used as an entry point to a target vehicle. Once connected to the OBD2 Port, 
 the scripts will run and perform in-depth CAN network analysis.
 <br>
