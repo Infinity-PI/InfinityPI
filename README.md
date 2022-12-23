@@ -1,4 +1,4 @@
-<img src="./data/img/3.png" width=800px>
+<img src="./data/img/3.png" width=400px>
 
 # InfinityPI
 This repository hosts the source code for InfinityPI.InfinityPI is build to be used as a Hardware toolkit
