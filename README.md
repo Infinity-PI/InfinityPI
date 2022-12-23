@@ -24,8 +24,6 @@ https://user-images.githubusercontent.com/121275881/209303645-e2651a63-7e7b-4dbf
 <br>
 
 * InfinityPI Demo for Whitelist attack the Tesla
-<br>
-
 https://user-images.githubusercontent.com/121275881/209305532-92c78d0a-abe7-45ef-8d4b-ccf2a0f53efa.mp4
 
 # NEWS
