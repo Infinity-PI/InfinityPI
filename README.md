@@ -15,6 +15,7 @@ The reporting feature on InfinityPI gives the pentester the option of sending re
 </p>
 <br/>
 </div>
+
 <img src="./data/img/1.jpg" width=410px>  <img src="./data/img/2.jpg" width=410px>
 
 # Demo
