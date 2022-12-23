@@ -34,6 +34,6 @@ https://user-images.githubusercontent.com/121275881/209305532-92c78d0a-abe7-45ef
 <br>
 
 # Developers
-shen jian -[https://github.com/SmileJJJ](https://github.com/SmileJJJ) <br/>
-li siwei -[https://github.com/vajic](https://github.com/vajic) <br/>
-chen huajiang -[https://twitter.com/kevin2600](https://twitter.com/kevin2600) <br/>
+Shen Jian -[https://github.com/SmileJJJ](https://github.com/SmileJJJ) <br/>
+Li Siwei -[https://github.com/vajic](https://github.com/vajic) <br/>
+Chen Huajiang -[https://twitter.com/kevin2600](https://twitter.com/kevin2600) <br/>
