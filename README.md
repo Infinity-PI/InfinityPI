@@ -1,4 +1,4 @@
-<img src="./data/img/3.png" width=400px>
+<img src="./data/img/3.png" width=300px>
 
 # InfinityPI
 This repository hosts the source code for InfinityPI.InfinityPI is build to be used as a Hardware toolkit
@@ -9,12 +9,12 @@ in a short period of time.
 Our primary goals are:
 <br>
 
-<img src="./data/img/1.jpg" width=410px><img src="./data/img/2.jpg" width=420px>
+<img src="./data/img/1.jpg" width=410px><img src="./data/img/2.jpg" width=410px>
 
 # Demo
-<video src="./data/video/1.mp4"></video>
+<iframe src="./data/video/1.mp4" height=600 width=800></iframe>
 <br />hacking tesla
-<video src="./data/video/2.mp4"></video>
+<iframe src="./data/video/2.mp4" height=600 width=800></iframe>
 <br />
 
 # NEWS
